@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 
-const heroBackground = '/media/background_1.webp';
+const heroBackground = 'https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg';
 
 const baseItemClass =
   'hero-smart-header__item transition-all duration-300 ease-in-out overflow-hidden rounded-3xl shadow-lg text-white';

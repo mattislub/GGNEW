@@ -66,7 +66,7 @@ export default function App() {
               <label htmlFor="newsletter" className="sr-only">
                 דוא"ל
               </label>
-              <input id="newsletter" type="email" required placeholder="הקלידו דוא\"ל" className="app-footer__input" />
+              <input id="newsletter" type="email" required placeholder='הקלידו דוא"ל' className="app-footer__input" />
               <button type="submit" className="app-footer__button">
                 להצטרפות
               </button>
