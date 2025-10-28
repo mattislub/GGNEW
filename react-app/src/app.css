@@ -67,6 +67,16 @@ body {
   object-fit: contain;
 }
 
+.app-header__logo-placeholder {
+  width: 52px;
+  height: 52px;
+  display: grid;
+  place-items: center;
+  border-radius: 12px;
+  background: linear-gradient(135deg, var(--color-orange), #facc15);
+  color: #0f172a;
+}
+
 .app-header__titles {
   display: flex;
   flex-direction: column;
